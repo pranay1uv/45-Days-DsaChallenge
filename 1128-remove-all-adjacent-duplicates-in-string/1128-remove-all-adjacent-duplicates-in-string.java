@@ -1,11 +1,5 @@
 class Solution {
     public String removeDuplicates(String s) {
-        // Input is String s
-        // output is String
-        // you should not compare string characters within the String
-        // you should compare the characters in the string with the characters in the stack 
-        // My procedure of pushing and popping is done
-        // Now how do i return the string from the stack
         Stack<Character> st = new Stack<>();
         for(int i = 0; i<s.length(); i++){
             if(st.empty()){
