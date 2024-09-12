@@ -7,7 +7,6 @@ class Solution {
         // My procedure of pushing and popping is done
         // Now how do i return the string from the stack
         Stack<Character> st = new Stack<>();
-        
         for(int i = 0; i<s.length(); i++){
             if(st.empty()){
                 st.push(s.charAt(i));
@@ -20,10 +19,6 @@ class Solution {
                 }
             }
         }
-        char[] ch = new char[st.size()];
-        for(int j = ch.length-1; j>=0; j--){
-            ch[j] = st.pop();
-        }
-        return String.valueOf(ch);
+        return st.toString().replaceAll("[^A-Za-z0-9]","");
     }
 }
