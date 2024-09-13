@@ -1,45 +1,34 @@
 class MinStack {
-    private ArrayList<Integer> list;
-    private ArrayList<Integer> minList;
-    private int size;
-    
+    private Stack<Integer> valStack;
+    private Stack<Integer> minValStack;
+
     public MinStack() {
-        list = new ArrayList<>();
-        minList = new ArrayList<>();
-        size = 0;
+       valStack = new Stack<>();
+       minValStack = new Stack<>();
     }
     
     public void push(int val) {
-        list.add(val);
-        if (size == 0) {
-            minList.add(val);
-        } else {
-            // Push the smaller of the current value and the current minimum to minList
-            minList.add(Math.min(val, minList.get(size - 1)));
+        valStack.push(val);
+        if(minValStack.size()==0){
+            minValStack.push(val);
         }
-        size++;
+        else{
+           // Math.min(val,)
+            minValStack.push(Math.min(val,minValStack.peek()));
+        }
     }
     
     public void pop() {
-        if (size > 0) {
-            list.remove(size - 1);
-            minList.remove(size - 1);
-            size--;
-        }
+        valStack.pop();
+        minValStack.pop();
     }
     
     public int top() {
-        if (size > 0) {
-            return list.get(size - 1);
-        }
-        return -1;  // or throw an exception
+        return valStack.peek();
     }
     
     public int getMin() {
-        if (size > 0) {
-            return minList.get(size - 1);
-        }
-        return -1;  // or throw an exception
+        return minValStack.peek();
     }
 }
 
