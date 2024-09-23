@@ -15,6 +15,7 @@
 | [0155-min-stack](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +37,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
