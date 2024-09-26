@@ -16,6 +16,7 @@
 | [0227-basic-calculator-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
+| [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
+| [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +40,13 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
+| [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
