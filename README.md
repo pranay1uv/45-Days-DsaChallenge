@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
+| [0943-sum-of-subarray-minimums](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0943-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
+| [0943-sum-of-subarray-minimums](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0943-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0496-next-greater-element-i](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
+| [0943-sum-of-subarray-minimums](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0943-sum-of-subarray-minimums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +52,5 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
+| [0943-sum-of-subarray-minimums](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
