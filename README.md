@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0943-sum-of-subarray-minimums) |
 | [0735-asteroid-collision](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0735-asteroid-collision) |
+| [2227-sum-of-subarray-ranges](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0943-sum-of-subarray-minimums) |
 | [0735-asteroid-collision](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0735-asteroid-collision) |
+| [2227-sum-of-subarray-ranges](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0503-next-greater-element-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0503-next-greater-element-ii) |
 | [0042-trapping-rain-water](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
