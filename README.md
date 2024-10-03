@@ -43,6 +43,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/2227-sum-of-subarray-ranges) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0085-maximal-rectangle) |
+| [0054-spiral-matrix](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0735-asteroid-collision) |
+| [0054-spiral-matrix](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +82,5 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0085-maximal-rectangle) |
+| [0054-spiral-matrix](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
