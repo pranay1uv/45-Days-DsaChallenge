@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0402-remove-k-digits) |
+| [0058-length-of-last-word](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |
