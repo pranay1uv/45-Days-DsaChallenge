@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0227-basic-calculator-ii) |
+| [0204-count-primes](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0085-maximal-rectangle) |
 | [0054-spiral-matrix](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0054-spiral-matrix) |
+| [0204-count-primes](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +86,12 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0085-maximal-rectangle) |
 | [0054-spiral-matrix](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pranay1uv/45-Days-DsaChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
